@@ -1,0 +1,7 @@
+C:\Users\Raul.tuyin\source\repos\State\State\bin\Debug\State.exe.config
+C:\Users\Raul.tuyin\source\repos\State\State\bin\Debug\State.exe
+C:\Users\Raul.tuyin\source\repos\State\State\bin\Debug\State.pdb
+C:\Users\Raul.tuyin\source\repos\State\State\obj\Debug\State.csprojAssemblyReference.cache
+C:\Users\Raul.tuyin\source\repos\State\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\Raul.tuyin\source\repos\State\State\obj\Debug\State.exe
+C:\Users\Raul.tuyin\source\repos\State\State\obj\Debug\State.pdb
